@@ -1,0 +1,1450 @@
+{
+  "version": 1,
+  "easy": [
+    {
+      "word": "exhausted",
+      "clues": [
+        "An adjective. Describes a physical state after great effort.",
+        "Means: completely drained, with no energy left.",
+        "A more intense version of \"tired\" or \"worn out\".",
+        "After running the marathon, she collapsed on the couch, utterly _______.",
+        "9 letters, starts with E."
+      ],
+      "etymology": "From Latin \"exhaurire\" — to draw out, drain completely."
+    },
+    {
+      "word": "generous",
+      "clues": [
+        "An adjective. A character trait, usually positive.",
+        "Means: willing to give more than is necessary or expected.",
+        "Close to \"big-hearted\" or \"liberal\" (in giving).",
+        "She left a _______ tip — twice the normal amount.",
+        "8 letters, starts with G."
+      ],
+      "etymology": "From Latin \"generosus\" — of noble birth, magnanimous."
+    },
+    {
+      "word": "brave",
+      "clues": [
+        "An adjective. A character trait, often praised.",
+        "Means: showing courage in the face of danger or difficulty.",
+        "A synonym is \"courageous\" or \"fearless\".",
+        "It was _______ of her to speak up at the meeting.",
+        "5 letters, starts with B."
+      ],
+      "etymology": "From Italian \"bravo\" — bold; originally meaning \"wild, untamed\"."
+    },
+    {
+      "word": "jealous",
+      "clues": [
+        "An adjective. Describes a feeling, usually unwelcome.",
+        "Means: resentful or envious of what someone else has.",
+        "A synonym is \"envious\" or \"covetous\".",
+        "He was _______ of his brother's promotion.",
+        "7 letters, starts with J."
+      ],
+      "etymology": "From Greek \"zelos\" — zeal, ardor; same root as \"zealous\"."
+    },
+    {
+      "word": "honest",
+      "clues": [
+        "An adjective. A character virtue.",
+        "Means: truthful and free from deceit.",
+        "Synonyms: \"truthful\", \"sincere\", \"straightforward\".",
+        "I'd rather have an _______ answer than a polite lie.",
+        "6 letters, starts with H."
+      ],
+      "etymology": "From Latin \"honestus\" — honorable, respected."
+    },
+    {
+      "word": "clever",
+      "clues": [
+        "An adjective. About a person's mind.",
+        "Means: quick to understand, ingenious, or witty.",
+        "Synonyms: \"smart\", \"sharp\", \"quick-witted\".",
+        "What a _______ way to solve the problem.",
+        "6 letters, starts with C."
+      ],
+      "etymology": "Origin uncertain, possibly from Old English meaning \"skilled with the hands\"."
+    },
+    {
+      "word": "nervous",
+      "clues": [
+        "An adjective. Describes a feeling before a stressful event.",
+        "Means: anxious, easily agitated, or worried.",
+        "Synonyms: \"anxious\", \"jittery\", \"uneasy\".",
+        "She was _______ before her first job interview.",
+        "7 letters, starts with N."
+      ],
+      "etymology": "From Latin \"nervosus\" — sinewy; later shifted to \"easily agitated\"."
+    },
+    {
+      "word": "curious",
+      "clues": [
+        "An adjective. About a desire — often a virtue in learners.",
+        "Means: eager to know or learn something.",
+        "Synonyms: \"inquisitive\", \"interested\", \"questioning\".",
+        "Children are naturally _______ about the world.",
+        "7 letters, starts with C."
+      ],
+      "etymology": "From Latin \"curiosus\" — careful, taking pains."
+    },
+    {
+      "word": "patient",
+      "clues": [
+        "An adjective. A virtue in slow situations.",
+        "Means: able to wait calmly without getting upset.",
+        "Synonyms: \"calm\", \"tolerant\", \"composed\".",
+        "Be _______ — the line moves slowly.",
+        "7 letters, starts with P."
+      ],
+      "etymology": "From Latin \"patiens\" — suffering, bearing."
+    },
+    {
+      "word": "stubborn",
+      "clues": [
+        "An adjective. A trait that is sometimes good, sometimes not.",
+        "Means: unwilling to change one's mind or position.",
+        "Synonyms: \"obstinate\", \"unyielding\", \"mulish\".",
+        "He was too _______ to admit he was wrong.",
+        "8 letters, starts with S."
+      ],
+      "etymology": "From Old English; possibly related to \"stub\" — a fixed remnant."
+    },
+    {
+      "word": "polite",
+      "clues": [
+        "An adjective. About manners.",
+        "Means: showing good manners and respect for others.",
+        "Synonyms: \"courteous\", \"civil\", \"well-mannered\".",
+        "It's _______ to say \"please\" and \"thank you\".",
+        "6 letters, starts with P."
+      ],
+      "etymology": "From Latin \"politus\" — polished, refined."
+    },
+    {
+      "word": "cheerful",
+      "clues": [
+        "An adjective. About a mood.",
+        "Means: noticeably happy and optimistic.",
+        "Synonyms: \"upbeat\", \"sunny\", \"merry\".",
+        "Despite the rain, she was in a _______ mood.",
+        "8 letters, starts with C."
+      ],
+      "etymology": "From Old French \"chiere\" meaning face or expression."
+    },
+    {
+      "word": "sincere",
+      "clues": [
+        "An adjective. About emotional honesty.",
+        "Means: genuine, free from pretense or deceit.",
+        "Synonyms: \"genuine\", \"heartfelt\", \"earnest\".",
+        "Please accept my _______ apology.",
+        "7 letters, starts with S."
+      ],
+      "etymology": "From Latin \"sincerus\" — pure, sound, untainted."
+    },
+    {
+      "word": "whisper",
+      "clues": [
+        "A verb or noun. About a way of speaking.",
+        "Means: to speak very quietly, almost silently.",
+        "Synonyms: \"murmur\", \"breathe\", \"mutter softly\".",
+        "She leaned over to _______ the secret in his ear.",
+        "7 letters, starts with W."
+      ],
+      "etymology": "From Old English \"hwisprian\" — imitative of the soft sound."
+    },
+    {
+      "word": "hurry",
+      "clues": [
+        "A verb or noun. About speed.",
+        "Means: to move or act with haste.",
+        "Synonyms: \"rush\", \"hasten\", \"scurry\".",
+        "_______ up — we're going to miss the bus.",
+        "5 letters, starts with H."
+      ],
+      "etymology": "Origin uncertain, possibly imitative of fast movement."
+    },
+    {
+      "word": "abundant",
+      "clues": [
+        "An adjective. Describes quantity or supply.",
+        "Means: existing in large quantities; more than enough.",
+        "Synonyms: \"plentiful\", \"ample\", \"copious\".",
+        "The valley had _______ rainfall — the rivers rarely ran dry.",
+        "8 letters, starts with A."
+      ],
+      "etymology": "From Latin \"abundare\" — to overflow."
+    },
+    {
+      "word": "agile",
+      "clues": [
+        "An adjective. Describes physical or mental quickness.",
+        "Means: able to move quickly and easily; mentally nimble.",
+        "Synonyms: \"nimble\", \"lithe\", \"dexterous\".",
+        "The _______ gymnast moved as if gravity barely applied to her.",
+        "5 letters, starts with A."
+      ],
+      "etymology": "From Latin \"agilis\" — easily moved, from \"agere\" (to act)."
+    },
+    {
+      "word": "arrogant",
+      "clues": [
+        "An adjective. A negative character trait about pride.",
+        "Means: believing oneself to be superior; overbearingly proud.",
+        "Synonyms: \"haughty\", \"conceited\", \"smug\".",
+        "His _______ refusal to ask for directions cost them two hours.",
+        "8 letters, starts with A."
+      ],
+      "etymology": "From Latin \"arrogare\" — to claim for oneself."
+    },
+    {
+      "word": "bold",
+      "clues": [
+        "An adjective. About confidence and daring.",
+        "Means: willing to take risks; showing confidence without apology.",
+        "Synonyms: \"daring\", \"audacious\", \"fearless\".",
+        "It was a _______ move to challenge the company's founder directly.",
+        "4 letters, starts with B."
+      ],
+      "etymology": "From Old English \"bald\" — brave, confident."
+    },
+    {
+      "word": "cautious",
+      "clues": [
+        "An adjective. About how one acts around risk.",
+        "Means: being careful to avoid potential problems or danger.",
+        "Synonyms: \"wary\", \"guarded\", \"circumspect\".",
+        "She was _______ with her savings after the market crash.",
+        "8 letters, starts with C."
+      ],
+      "etymology": "From Latin \"cautio\" — precaution, from \"cavere\" (to beware)."
+    },
+    {
+      "word": "decisive",
+      "clues": [
+        "An adjective. About how one makes choices.",
+        "Means: settling matters quickly and firmly; resolute.",
+        "Synonyms: \"resolute\", \"determined\", \"firm\".",
+        "In a crisis, _______ leadership matters more than perfect information.",
+        "8 letters, starts with D."
+      ],
+      "etymology": "From Latin \"decidere\" — to cut off, decide."
+    },
+    {
+      "word": "desperate",
+      "clues": [
+        "An adjective. Describes a state of extreme need or hopelessness.",
+        "Means: having lost hope; willing to try anything.",
+        "Synonyms: \"frantic\", \"hopeless\", \"frenzied\".",
+        "Stranded in the storm, they were _______ for any sign of shelter.",
+        "9 letters, starts with D."
+      ],
+      "etymology": "From Latin \"desperare\" — to be without hope."
+    },
+    {
+      "word": "eager",
+      "clues": [
+        "An adjective. About wanting something keenly.",
+        "Means: strongly wanting to do or have something.",
+        "Synonyms: \"keen\", \"enthusiastic\", \"avid\".",
+        "The _______ student arrived early and sat in the front row.",
+        "5 letters, starts with E."
+      ],
+      "etymology": "From Old French \"aigre\" — keen, sharp; from Latin \"acer\" (sharp)."
+    },
+    {
+      "word": "elegant",
+      "clues": [
+        "An adjective. About style and refinement.",
+        "Means: graceful, stylish, and pleasingly refined.",
+        "Synonyms: \"graceful\", \"refined\", \"tasteful\".",
+        "The solution was so _______ — a single equation explained everything.",
+        "7 letters, starts with E."
+      ],
+      "etymology": "From Latin \"elegans\" — fastidious, refined in taste."
+    },
+    {
+      "word": "fierce",
+      "clues": [
+        "An adjective. About intensity or aggression.",
+        "Means: violently aggressive; extremely intense.",
+        "Synonyms: \"ferocious\", \"savage\", \"intense\".",
+        "The competition was _______ — every team fought for every point.",
+        "6 letters, starts with F."
+      ],
+      "etymology": "From Old French \"fiers\" — bold, fierce; from Latin \"ferus\" (wild)."
+    },
+    {
+      "word": "fragile",
+      "clues": [
+        "An adjective. About how easily something breaks.",
+        "Means: easily broken, damaged, or destroyed.",
+        "Synonyms: \"delicate\", \"brittle\", \"frail\".",
+        "The _______ truce between the two nations lasted less than a week.",
+        "7 letters, starts with F."
+      ],
+      "etymology": "From Latin \"fragilis\" — breakable, from \"frangere\" (to break)."
+    },
+    {
+      "word": "furious",
+      "clues": [
+        "An adjective. An extreme emotional state.",
+        "Means: extremely angry; wild in force or intensity.",
+        "Synonyms: \"enraged\", \"livid\", \"incensed\".",
+        "She was _______ to discover her work had been submitted without credit.",
+        "7 letters, starts with F."
+      ],
+      "etymology": "From Latin \"furiosus\" — full of rage, from \"furia\" (fury)."
+    },
+    {
+      "word": "gentle",
+      "clues": [
+        "An adjective. About manner and temperament.",
+        "Means: mild and kind; not rough or severe.",
+        "Synonyms: \"tender\", \"soft\", \"mild\".",
+        "She had a _______ way of delivering difficult news.",
+        "6 letters, starts with G."
+      ],
+      "etymology": "From Latin \"gentilis\" — of good birth; later associated with refinement."
+    },
+    {
+      "word": "grateful",
+      "clues": [
+        "An adjective. About feeling toward someone who helped you.",
+        "Means: feeling or showing thankfulness.",
+        "Synonyms: \"thankful\", \"appreciative\", \"indebted\".",
+        "She wrote a long letter to the teacher who had changed her life, deeply _______.",
+        "8 letters, starts with G."
+      ],
+      "etymology": "From Latin \"gratus\" — pleasing, thankful."
+    },
+    {
+      "word": "humble",
+      "clues": [
+        "An adjective. About self-perception.",
+        "Means: having a modest or low view of one's own importance.",
+        "Synonyms: \"modest\", \"unassuming\", \"meek\".",
+        "Despite winning three awards, he remained remarkably _______.",
+        "6 letters, starts with H."
+      ],
+      "etymology": "From Latin \"humilis\" — grounded, low, from \"humus\" (earth)."
+    },
+    {
+      "word": "intense",
+      "clues": [
+        "An adjective. About degree of strength or feeling.",
+        "Means: existing to an extreme degree; very strong or concentrated.",
+        "Synonyms: \"extreme\", \"acute\", \"fierce\".",
+        "The _______ heat of the foundry made conversation impossible.",
+        "7 letters, starts with I."
+      ],
+      "etymology": "From Latin \"intensus\" — stretched tightly, from \"intendere\" (to stretch)."
+    },
+    {
+      "word": "loyal",
+      "clues": [
+        "An adjective. About faithfulness to a person or cause.",
+        "Means: giving firm and constant support; faithful.",
+        "Synonyms: \"faithful\", \"devoted\", \"steadfast\".",
+        "She remained _______ to her employer even when rivals offered more money.",
+        "5 letters, starts with L."
+      ],
+      "etymology": "From Old French \"loial\" — legal, faithful; from Latin \"legalis\" (legal)."
+    },
+    {
+      "word": "meticulous",
+      "clues": [
+        "An adjective. About attention to detail.",
+        "Means: showing great attention to detail; very careful and precise.",
+        "Synonyms: \"painstaking\", \"thorough\", \"scrupulous\".",
+        "The watchmaker was _______, laying out each tiny component in a perfect row.",
+        "10 letters, starts with M."
+      ],
+      "etymology": "From Latin \"meticulosus\" — fearful, timid; later evolved to mean overly careful."
+    },
+    {
+      "word": "modest",
+      "clues": [
+        "An adjective. About self-presentation.",
+        "Means: unassuming about one's abilities; not boastful.",
+        "Synonyms: \"unassuming\", \"humble\", \"self-effacing\".",
+        "She was _______ about her achievements, rarely mentioning the prize.",
+        "6 letters, starts with M."
+      ],
+      "etymology": "From Latin \"modestus\" — keeping due measure, from \"modus\" (measure)."
+    },
+    {
+      "word": "optimistic",
+      "clues": [
+        "An adjective. About outlook on the future.",
+        "Means: expecting the best possible outcome.",
+        "Synonyms: \"hopeful\", \"positive\", \"bullish\".",
+        "Even after three rejections, she remained _______ about finding a publisher.",
+        "10 letters, starts with O."
+      ],
+      "etymology": "From Latin \"optimus\" — best."
+    },
+    {
+      "word": "resilient",
+      "clues": [
+        "An adjective. About recovering from setbacks.",
+        "Means: able to spring back quickly from difficulties or change.",
+        "Synonyms: \"tough\", \"adaptable\", \"buoyant\".",
+        "Children are remarkably _______ — they bounce back from setbacks that floor adults.",
+        "9 letters, starts with R."
+      ],
+      "etymology": "From Latin \"resilire\" — to spring back."
+    },
+    {
+      "word": "ruthless",
+      "clues": [
+        "An adjective. Describes a coldly determined character.",
+        "Means: having no pity or compassion for others.",
+        "Synonyms: \"merciless\", \"pitiless\", \"remorseless\".",
+        "The _______ CEO cut entire departments without a second thought.",
+        "8 letters, starts with R."
+      ],
+      "etymology": "From Old English \"ruth\" — compassion (now archaic) + -less."
+    },
+    {
+      "word": "serene",
+      "clues": [
+        "An adjective. About a quality of peace and calm.",
+        "Means: calm, peaceful, and untroubled.",
+        "Synonyms: \"tranquil\", \"placid\", \"composed\".",
+        "The lake was perfectly _______ at dawn, not a ripple on its surface.",
+        "6 letters, starts with S."
+      ],
+      "etymology": "From Latin \"serenus\" — clear, fair weather."
+    },
+    {
+      "word": "timid",
+      "clues": [
+        "An adjective. About confidence — or the lack of it.",
+        "Means: lacking in courage or self-confidence; easily frightened.",
+        "Synonyms: \"shy\", \"meek\", \"faint-hearted\".",
+        "The _______ kitten hid behind the couch whenever a visitor arrived.",
+        "5 letters, starts with T."
+      ],
+      "etymology": "From Latin \"timidus\" — fearful, from \"timere\" (to fear)."
+    },
+    {
+      "word": "vibrant",
+      "clues": [
+        "An adjective. About energy and liveliness.",
+        "Means: full of energy, enthusiasm, or color; bright and striking.",
+        "Synonyms: \"lively\", \"vivid\", \"dynamic\".",
+        "The market was _______ — music, color, and the smell of spices everywhere.",
+        "7 letters, starts with V."
+      ],
+      "etymology": "From Latin \"vibrare\" — to shake, quiver."
+    }
+  ],
+  "medium": [
+    {
+      "word": "ephemeral",
+      "clues": [
+        "An adjective. Describes how long something lasts.",
+        "Means: lasting only a very short time.",
+        "Synonyms: \"fleeting\", \"transient\", \"momentary\".",
+        "Cherry blossoms are famously _______ — gone in about a week.",
+        "9 letters, starts with E."
+      ],
+      "etymology": "From Greek \"ephemeros\" — lasting only a day."
+    },
+    {
+      "word": "ubiquitous",
+      "clues": [
+        "An adjective. Describes how widely something is found.",
+        "Means: present, appearing, or found everywhere.",
+        "A near-synonym is \"omnipresent\" or \"universal\".",
+        "Smartphones have become _______ — you see them in every hand.",
+        "10 letters, starts with U."
+      ],
+      "etymology": "From Latin \"ubique\" — everywhere."
+    },
+    {
+      "word": "sycophant",
+      "clues": [
+        "A noun. A person, and not a flattering label.",
+        "Means: someone who flatters powerful people for personal gain.",
+        "Synonyms: \"bootlicker\", \"yes-man\", \"toady\".",
+        "The CEO was surrounded by _______s who agreed with everything he said.",
+        "9 letters, starts with S."
+      ],
+      "etymology": "Greek roots — literally \"fig-shower\", slang for an informer."
+    },
+    {
+      "word": "pernicious",
+      "clues": [
+        "An adjective. Describes something harmful, often subtly.",
+        "Means: having a harmful effect, especially in a gradual way.",
+        "Synonyms: \"insidious\", \"damaging\", \"destructive\".",
+        "Misinformation has a _______ effect on public trust.",
+        "10 letters, starts with P."
+      ],
+      "etymology": "From Latin \"pernicies\" — destruction, ruin."
+    },
+    {
+      "word": "quixotic",
+      "clues": [
+        "An adjective. Describes a certain kind of idealism.",
+        "Means: extremely idealistic and unrealistic.",
+        "Synonyms: \"impractical\", \"unrealistic\", \"starry-eyed\".",
+        "His _______ plan to end traffic by banning cars went nowhere.",
+        "8 letters, starts with Q."
+      ],
+      "etymology": "Named after Don Quixote, the deluded knight in Cervantes' novel."
+    },
+    {
+      "word": "mellifluous",
+      "clues": [
+        "An adjective. Almost always describes a sound.",
+        "Means: sweetly or smoothly flowing, especially in sound.",
+        "Synonyms: \"honeyed\", \"dulcet\", \"sonorous\".",
+        "Her _______ voice made even traffic reports sound soothing.",
+        "11 letters, starts with M."
+      ],
+      "etymology": "Latin \"mel\" (honey) + \"fluere\" (to flow)."
+    },
+    {
+      "word": "obfuscate",
+      "clues": [
+        "A verb. Something you do to meaning or information.",
+        "Means: to make obscure, unclear, or confusing on purpose.",
+        "Synonyms: \"muddle\", \"confuse\", \"cloud\".",
+        "Politicians often _______ the issue with technical jargon.",
+        "9 letters, starts with O."
+      ],
+      "etymology": "From Latin \"fuscus\" — dark; literally \"to darken\"."
+    },
+    {
+      "word": "loquacious",
+      "clues": [
+        "An adjective. A personality trait, about communication.",
+        "Means: tending to talk a great deal.",
+        "Synonyms: \"garrulous\", \"talkative\", \"chatty\".",
+        "After two coffees she became unusually _______.",
+        "10 letters, starts with L."
+      ],
+      "etymology": "From Latin \"loqui\" — to speak."
+    },
+    {
+      "word": "recalcitrant",
+      "clues": [
+        "An adjective. Describes attitude toward authority or rules.",
+        "Means: stubbornly resistant to authority or control.",
+        "Synonyms: \"unruly\", \"defiant\", \"obstinate\".",
+        "The _______ student refused to follow even the simplest instructions.",
+        "12 letters, starts with R."
+      ],
+      "etymology": "From Latin \"calx\" (heel) — literally \"kicking back\"."
+    },
+    {
+      "word": "sanguine",
+      "clues": [
+        "An adjective. Describes an outlook or mood.",
+        "Means: cheerfully optimistic, especially in tough situations.",
+        "Synonyms: \"optimistic\", \"hopeful\", \"positive\".",
+        "Despite the setback, she remained _______ about their chances.",
+        "8 letters, starts with S."
+      ],
+      "etymology": "From Latin \"sanguis\" — blood; tied to medieval theory of bodily humors."
+    },
+    {
+      "word": "perspicacious",
+      "clues": [
+        "An adjective. A compliment about someone's mind.",
+        "Means: having sharp insight; quick to notice or understand.",
+        "Synonyms: \"shrewd\", \"discerning\", \"perceptive\".",
+        "Her _______ analysis caught the flaw everyone else missed.",
+        "13 letters, starts with P."
+      ],
+      "etymology": "From Latin \"perspicere\" — to see through."
+    },
+    {
+      "word": "equanimity",
+      "clues": [
+        "A noun. Describes a calm state of being.",
+        "Means: mental calmness and composure, especially under stress.",
+        "Synonyms: \"composure\", \"serenity\", \"self-possession\".",
+        "He accepted the diagnosis with surprising _______.",
+        "10 letters, starts with E."
+      ],
+      "etymology": "Latin \"aequus\" (even) + \"animus\" (mind)."
+    },
+    {
+      "word": "soporific",
+      "clues": [
+        "An adjective. Has to do with sleep.",
+        "Means: causing or tending to cause sleep.",
+        "Synonyms: \"sleep-inducing\", \"sedative\", \"drowsy-making\".",
+        "The professor's monotone lecture had a _______ effect on the class.",
+        "9 letters, starts with S."
+      ],
+      "etymology": "From Latin \"sopor\" — deep sleep."
+    },
+    {
+      "word": "lugubrious",
+      "clues": [
+        "An adjective. Describes a mood or expression.",
+        "Means: looking or sounding sad and dismal, often exaggeratedly.",
+        "Synonyms: \"mournful\", \"doleful\", \"gloomy\".",
+        "The basset hound stared up with a _______ expression.",
+        "10 letters, starts with L."
+      ],
+      "etymology": "From Latin \"lugere\" — to mourn."
+    },
+    {
+      "word": "cacophony",
+      "clues": [
+        "A noun. Describes something you hear.",
+        "Means: a harsh, jarring mixture of sounds.",
+        "Synonyms: \"din\", \"racket\", \"discord\".",
+        "A _______ of car horns greeted us in midtown traffic.",
+        "9 letters, starts with C."
+      ],
+      "etymology": "Greek \"kakos\" (bad) + \"phone\" (sound)."
+    },
+    {
+      "word": "magnanimous",
+      "clues": [
+        "An adjective. A virtue, especially toward rivals.",
+        "Means: very generous or forgiving, especially to a defeated enemy.",
+        "Synonyms: \"big-hearted\", \"forgiving\", \"noble\".",
+        "In a _______ gesture, the winner praised her opponent's effort.",
+        "11 letters, starts with M."
+      ],
+      "etymology": "Latin \"magnus\" (great) + \"animus\" (soul)."
+    },
+    {
+      "word": "inchoate",
+      "clues": [
+        "An adjective. Describes the state of an idea or plan.",
+        "Means: just begun and not fully formed or developed.",
+        "Synonyms: \"rudimentary\", \"unformed\", \"nascent\".",
+        "She had only an _______ sense of what she wanted to do with her life.",
+        "8 letters, starts with I."
+      ],
+      "etymology": "From Latin \"incohare\" — to begin."
+    },
+    {
+      "word": "truculent",
+      "clues": [
+        "An adjective. Describes a hostile demeanor.",
+        "Means: eager or quick to argue or fight; aggressively defiant.",
+        "Synonyms: \"belligerent\", \"pugnacious\", \"combative\".",
+        "The _______ customer refused to lower his voice.",
+        "9 letters, starts with T."
+      ],
+      "etymology": "From Latin \"trux\" — fierce, savage."
+    },
+    {
+      "word": "vicissitude",
+      "clues": [
+        "A noun, often plural. About changes over time.",
+        "Means: a change of circumstances or fortune, typically unwelcome.",
+        "Synonyms: \"fluctuation\", \"change of fortune\", \"reversal\".",
+        "He weathered the _______s of his career with grace.",
+        "11 letters, starts with V."
+      ],
+      "etymology": "From Latin \"vicis\" — change, turn."
+    },
+    {
+      "word": "laconic",
+      "clues": [
+        "An adjective. Describes a way of speaking.",
+        "Means: using very few words; concise to the point of seeming rude.",
+        "Synonyms: \"terse\", \"brief\", \"pithy\".",
+        "Clint Eastwood made a career out of playing _______ heroes.",
+        "7 letters, starts with L."
+      ],
+      "etymology": "Named after Laconia, region of ancient Sparta, known for terse speech."
+    },
+    {
+      "word": "ambiguous",
+      "clues": [
+        "An adjective. About clarity — or the lack of it.",
+        "Means: open to more than one interpretation; not clear.",
+        "Synonyms: \"vague\", \"unclear\", \"equivocal\".",
+        "The contract's _______ wording allowed either side to claim victory.",
+        "9 letters, starts with A."
+      ],
+      "etymology": "From Latin \"ambiguus\" — doubtful, from \"ambigere\" (to wander about)."
+    },
+    {
+      "word": "benevolent",
+      "clues": [
+        "An adjective. A positive quality about intentions toward others.",
+        "Means: well-meaning and kind; generous and charitable.",
+        "Synonyms: \"kind\", \"charitable\", \"philanthropic\".",
+        "The _______ donor gave millions without asking for any recognition.",
+        "10 letters, starts with B."
+      ],
+      "etymology": "From Latin \"bene\" (well) + \"volens\" (wishing)."
+    },
+    {
+      "word": "capricious",
+      "clues": [
+        "An adjective. Describes unpredictable behavior.",
+        "Means: given to sudden and unaccountable changes of mood or behavior.",
+        "Synonyms: \"fickle\", \"whimsical\", \"unpredictable\".",
+        "The _______ weather ruined their outdoor wedding plans.",
+        "10 letters, starts with C."
+      ],
+      "etymology": "From Italian \"capriccio\" — sudden start; perhaps from \"capro\" (goat)."
+    },
+    {
+      "word": "catharsis",
+      "clues": [
+        "A noun. About releasing something pent-up.",
+        "Means: the release of strong emotions, bringing relief or renewal.",
+        "Synonyms: \"release\", \"purging\", \"emotional cleansing\".",
+        "Crying at the film's ending provided a _______ she had needed for months.",
+        "9 letters, starts with C."
+      ],
+      "etymology": "From Greek \"katharsis\" — cleansing, purification."
+    },
+    {
+      "word": "clandestine",
+      "clues": [
+        "An adjective. Describes secretive activity, often illicit.",
+        "Means: done in secret, often for an illicit reason.",
+        "Synonyms: \"covert\", \"secret\", \"undercover\".",
+        "The agents held _______ meetings in a different city each week.",
+        "11 letters, starts with C."
+      ],
+      "etymology": "From Latin \"clam\" — secretly."
+    },
+    {
+      "word": "cogent",
+      "clues": [
+        "An adjective. Describes an argument or line of reasoning.",
+        "Means: clear, logical, and convincing.",
+        "Synonyms: \"compelling\", \"persuasive\", \"forceful\".",
+        "She made a _______ case for the new policy that silenced the critics.",
+        "6 letters, starts with C."
+      ],
+      "etymology": "From Latin \"cogere\" — to drive together, compel."
+    },
+    {
+      "word": "culpable",
+      "clues": [
+        "An adjective. About responsibility for something wrong.",
+        "Means: deserving blame for a fault or wrong.",
+        "Synonyms: \"guilty\", \"blameworthy\", \"responsible\".",
+        "The safety report found the contractor _______ for the collapse.",
+        "8 letters, starts with C."
+      ],
+      "etymology": "From Latin \"culpa\" — fault, blame."
+    },
+    {
+      "word": "desultory",
+      "clues": [
+        "An adjective. Describes a way of doing something without energy.",
+        "Means: lacking in purpose or enthusiasm; jumping randomly from one thing to another.",
+        "Synonyms: \"halfhearted\", \"haphazard\", \"aimless\".",
+        "After losing the lead, their _______ passing yielded nothing.",
+        "9 letters, starts with D."
+      ],
+      "etymology": "From Latin \"desultor\" — a circus rider who leaps between horses."
+    },
+    {
+      "word": "duplicity",
+      "clues": [
+        "A noun. A moral failing about honesty.",
+        "Means: deceitfulness; saying one thing while meaning another.",
+        "Synonyms: \"deceit\", \"double-dealing\", \"treachery\".",
+        "His _______ was exposed when both contradictory emails were leaked at once.",
+        "9 letters, starts with D."
+      ],
+      "etymology": "From Latin \"duplex\" — twofold; literally \"two-facedness\"."
+    },
+    {
+      "word": "ebullient",
+      "clues": [
+        "An adjective. Describes overflowing energy and enthusiasm.",
+        "Means: cheerful and full of energy; bubbly and enthusiastic.",
+        "Synonyms: \"exuberant\", \"vivacious\", \"effervescent\".",
+        "Her _______ personality lit up every room she walked into.",
+        "9 letters, starts with E."
+      ],
+      "etymology": "From Latin \"ebullire\" — to boil up, bubble over."
+    },
+    {
+      "word": "eloquent",
+      "clues": [
+        "An adjective. About speaking or writing with power and persuasion.",
+        "Means: fluent and persuasive in expression.",
+        "Synonyms: \"articulate\", \"silver-tongued\", \"expressive\".",
+        "Her _______ speech moved the entire audience to tears.",
+        "8 letters, starts with E."
+      ],
+      "etymology": "From Latin \"eloqui\" — to speak out."
+    },
+    {
+      "word": "enigmatic",
+      "clues": [
+        "An adjective. Describes something hard to interpret.",
+        "Means: difficult to interpret; mysterious and puzzling.",
+        "Synonyms: \"mysterious\", \"cryptic\", \"inscrutable\".",
+        "She gave an _______ smile and left without explaining herself.",
+        "9 letters, starts with E."
+      ],
+      "etymology": "From Greek \"ainigma\" — a riddle."
+    },
+    {
+      "word": "evanescent",
+      "clues": [
+        "An adjective. About things that vanish quickly.",
+        "Means: quickly fading from sight or memory; vanishing.",
+        "Synonyms: \"fleeting\", \"ephemeral\", \"transient\".",
+        "The _______ mist lifted by mid-morning, and the valley appeared below.",
+        "10 letters, starts with E."
+      ],
+      "etymology": "From Latin \"evanescere\" — to vanish, from \"vanus\" (empty)."
+    },
+    {
+      "word": "exacerbate",
+      "clues": [
+        "A verb. About making a bad situation worse.",
+        "Means: to make a problem, bad situation, or feeling more severe.",
+        "Synonyms: \"worsen\", \"aggravate\", \"inflame\".",
+        "Cutting foreign aid will only _______ the humanitarian crisis.",
+        "10 letters, starts with E."
+      ],
+      "etymology": "From Latin \"exacerbare\" — to make harsh, from \"acerbus\" (bitter)."
+    },
+    {
+      "word": "flagrant",
+      "clues": [
+        "An adjective. Describes a violation that is shockingly obvious.",
+        "Means: conspicuously bad or offensive; blatant.",
+        "Synonyms: \"blatant\", \"brazen\", \"glaring\".",
+        "The referee called a _______ foul and ejected the player immediately.",
+        "8 letters, starts with F."
+      ],
+      "etymology": "From Latin \"flagrare\" — to blaze; literally \"blazing openly\"."
+    },
+    {
+      "word": "futile",
+      "clues": [
+        "An adjective. About actions with no chance of success.",
+        "Means: incapable of producing any useful result; pointless.",
+        "Synonyms: \"pointless\", \"useless\", \"fruitless\".",
+        "It was _______ to argue — the decision had already been made.",
+        "6 letters, starts with F."
+      ],
+      "etymology": "From Latin \"futilis\" — leaky, untrustworthy."
+    },
+    {
+      "word": "intrepid",
+      "clues": [
+        "An adjective. About fearlessness in the face of danger.",
+        "Means: fearless and adventurous; resolute in the face of danger.",
+        "Synonyms: \"fearless\", \"bold\", \"dauntless\".",
+        "The _______ explorer pressed on despite losing two members of the team.",
+        "8 letters, starts with I."
+      ],
+      "etymology": "From Latin \"intrepidus\" — \"in-\" (not) + \"trepidus\" (alarmed)."
+    },
+    {
+      "word": "languid",
+      "clues": [
+        "An adjective. Describes a slow, weak quality of movement or manner.",
+        "Means: weak or faint from illness or fatigue; lacking energy.",
+        "Synonyms: \"listless\", \"sluggish\", \"lethargic\".",
+        "The summer heat made everyone _______, draped across chairs with cold drinks.",
+        "7 letters, starts with L."
+      ],
+      "etymology": "From Latin \"languidus\" — faint, weak, from \"languere\" (to be weak)."
+    },
+    {
+      "word": "malleable",
+      "clues": [
+        "An adjective. About being shaped — physically or mentally.",
+        "Means: able to be shaped; easily influenced or changed.",
+        "Synonyms: \"pliable\", \"flexible\", \"impressionable\".",
+        "Young minds are _______ — they absorb whatever culture surrounds them.",
+        "9 letters, starts with M."
+      ],
+      "etymology": "From Latin \"malleus\" — a hammer; literally \"able to be hammered\"."
+    },
+    {
+      "word": "nefarious",
+      "clues": [
+        "An adjective. About deliberate, dramatic wrongdoing.",
+        "Means: wicked or criminal in a deliberate way.",
+        "Synonyms: \"villainous\", \"wicked\", \"sinister\".",
+        "The detective uncovered the gang's _______ plan just in time.",
+        "9 letters, starts with N."
+      ],
+      "etymology": "From Latin \"nefas\" — wrong, wickedness, from \"ne-\" (not) + \"fas\" (divine law)."
+    },
+    {
+      "word": "ostracize",
+      "clues": [
+        "A verb. About social exclusion.",
+        "Means: to exclude someone from a society or group.",
+        "Synonyms: \"shun\", \"exile\", \"blacklist\".",
+        "After the scandal, his former colleagues began to _______ him at every gathering.",
+        "9 letters, starts with O."
+      ],
+      "etymology": "From Greek \"ostrakizein\" — to banish by vote; \"ostrakon\" was the pottery shard used as a ballot."
+    },
+    {
+      "word": "pragmatic",
+      "clues": [
+        "An adjective. About dealing with reality as it is.",
+        "Means: dealing with things realistically and practically rather than theoretically.",
+        "Synonyms: \"practical\", \"realistic\", \"sensible\".",
+        "His _______ approach meant finding workable solutions rather than perfect ones.",
+        "9 letters, starts with P."
+      ],
+      "etymology": "From Greek \"pragma\" — deed, affair; from \"prattein\" (to do)."
+    },
+    {
+      "word": "reticent",
+      "clues": [
+        "An adjective. About speaking — or choosing not to.",
+        "Means: not revealing one's thoughts or feelings readily.",
+        "Synonyms: \"reserved\", \"quiet\", \"tight-lipped\".",
+        "She was _______ about her past, rarely answering personal questions directly.",
+        "8 letters, starts with R."
+      ],
+      "etymology": "From Latin \"reticere\" — to keep silent."
+    },
+    {
+      "word": "sardonic",
+      "clues": [
+        "An adjective. About a particular kind of dark, dry humor.",
+        "Means: grimly mocking or cynical; dryly humorous about unpleasant things.",
+        "Synonyms: \"cynical\", \"wry\", \"scornful\".",
+        "His _______ commentary on office politics made his coworkers uncomfortable.",
+        "8 letters, starts with S."
+      ],
+      "etymology": "From Greek \"sardonios\" — a bitter or scornful laugh."
+    },
+    {
+      "word": "stoic",
+      "clues": [
+        "An adjective or noun. About enduring hardship without complaint.",
+        "Means: enduring pain or hardship without showing feeling.",
+        "Synonyms: \"impassive\", \"unflappable\", \"resigned\".",
+        "The soldiers stood _______ in the freezing rain for three hours.",
+        "5 letters, starts with S."
+      ],
+      "etymology": "From Greek \"Stoikos\" — of the Stoa; named for the porch where the philosopher Zeno taught."
+    },
+    {
+      "word": "tenacious",
+      "clues": [
+        "An adjective. About persistence against all odds.",
+        "Means: not giving up; holding firmly to something.",
+        "Synonyms: \"persistent\", \"dogged\", \"relentless\".",
+        "The _______ lawyer appealed the verdict four times before finally winning.",
+        "9 letters, starts with T."
+      ],
+      "etymology": "From Latin \"tenax\" — holding fast, from \"tenere\" (to hold)."
+    },
+    {
+      "word": "volatile",
+      "clues": [
+        "An adjective. About instability — in chemistry, moods, or markets.",
+        "Means: liable to change rapidly and unpredictably.",
+        "Synonyms: \"unstable\", \"erratic\", \"explosive\".",
+        "The stock was _______, jumping 20% one day and crashing the next.",
+        "8 letters, starts with V."
+      ],
+      "etymology": "From Latin \"volatilis\" — flying, fleeting, from \"volare\" (to fly)."
+    },
+    {
+      "word": "wistful",
+      "clues": [
+        "An adjective. About longing for something past or distant.",
+        "Means: having a feeling of vague or regretful longing.",
+        "Synonyms: \"nostalgic\", \"yearning\", \"pensive\".",
+        "She watched the old house with a _______ expression as the car drove away.",
+        "7 letters, starts with W."
+      ],
+      "etymology": "Possibly from \"wistly\" — intently; later blended with \"wishful\"."
+    },
+    {
+      "word": "zealous",
+      "clues": [
+        "An adjective. About passionate, energetic dedication.",
+        "Means: having or showing great energy or enthusiasm in pursuit of a cause.",
+        "Synonyms: \"fervent\", \"passionate\", \"ardent\".",
+        "The _______ volunteer knocked on two hundred doors in a single week.",
+        "7 letters, starts with Z."
+      ],
+      "etymology": "From Greek \"zelos\" — zeal, ardor; same root as \"jealous\"."
+    },
+    {
+      "word": "anomaly",
+      "clues": [
+        "A noun. Something that does not fit the expected pattern.",
+        "Means: something that deviates from what is standard or expected.",
+        "Synonyms: \"irregularity\", \"aberration\", \"oddity\".",
+        "The single warm day in November was a climate _______.",
+        "7 letters, starts with A."
+      ],
+      "etymology": "From Greek \"anomalos\" — uneven; \"an-\" (not) + \"homalos\" (even)."
+    }
+  ],
+  "hard": [
+    {
+      "word": "susurrus",
+      "clues": [
+        "A noun. Describes a soft sound.",
+        "Means: a soft murmuring or rustling sound.",
+        "Synonyms: \"whisper\", \"murmur\", \"rustling\".",
+        "The _______ of leaves filled the autumn wood.",
+        "8 letters, starts with S."
+      ],
+      "etymology": "From Latin \"susurrus\" — a whispering sound; an imitative word."
+    },
+    {
+      "word": "apotheosis",
+      "clues": [
+        "A noun. Describes a peak or transformation.",
+        "Means: the highest point in someone's development or success.",
+        "Synonyms: \"pinnacle\", \"culmination\", \"zenith\".",
+        "The film was the _______ of his career.",
+        "10 letters, starts with A."
+      ],
+      "etymology": "From Greek \"apotheoun\" — to deify; original meaning was \"elevation to godhood\"."
+    },
+    {
+      "word": "defenestrate",
+      "clues": [
+        "A verb. A specific (and dramatic) action.",
+        "Means: to throw someone (or something) out of a window.",
+        "It is so specific there are no real synonyms.",
+        "The angry mob threatened to _______ the unpopular minister.",
+        "12 letters, starts with D."
+      ],
+      "etymology": "Latin \"de\" (down from) + \"fenestra\" (window). Made famous by the 1618 Defenestration of Prague."
+    },
+    {
+      "word": "antediluvian",
+      "clues": [
+        "An adjective. Describes age, often hyperbolically.",
+        "Means: extremely old; ridiculously outdated.",
+        "Synonyms: \"ancient\", \"archaic\", \"prehistoric\".",
+        "His _______ flip phone amused his grandchildren.",
+        "12 letters, starts with A."
+      ],
+      "etymology": "Latin \"ante\" (before) + \"diluvium\" (flood); literally \"before Noah's flood\"."
+    },
+    {
+      "word": "peripatetic",
+      "clues": [
+        "An adjective. Describes a lifestyle or work pattern.",
+        "Means: traveling from place to place, especially in pursuit of work.",
+        "Synonyms: \"itinerant\", \"wandering\", \"nomadic\".",
+        "Her _______ career took her to twelve cities in five years.",
+        "11 letters, starts with P."
+      ],
+      "etymology": "From Greek \"peripatein\" — to walk about; named for Aristotle's habit of teaching while walking."
+    },
+    {
+      "word": "supercilious",
+      "clues": [
+        "An adjective. Describes a haughty attitude.",
+        "Means: behaving as if one is superior to others.",
+        "Synonyms: \"haughty\", \"condescending\", \"snobbish\".",
+        "He gave the busboy a _______ glance.",
+        "12 letters, starts with S."
+      ],
+      "etymology": "From Latin \"supercilium\" — eyebrow; literally \"eyebrow-raising\"."
+    },
+    {
+      "word": "obstreperous",
+      "clues": [
+        "An adjective. Describes loud, unruly behavior.",
+        "Means: noisy and difficult to control.",
+        "Synonyms: \"rowdy\", \"boisterous\", \"unruly\".",
+        "The _______ toddler refused to leave the toy store.",
+        "12 letters, starts with O."
+      ],
+      "etymology": "Latin \"ob-\" (against) + \"strepere\" (to make a noise)."
+    },
+    {
+      "word": "pellucid",
+      "clues": [
+        "An adjective. Describes clarity of expression or appearance.",
+        "Means: transparently clear in expression or appearance.",
+        "Synonyms: \"transparent\", \"lucid\", \"crystal-clear\".",
+        "Her _______ prose made complex physics accessible to any reader.",
+        "8 letters, starts with P."
+      ],
+      "etymology": "Latin \"per\" (through) + \"lucere\" (to shine)."
+    },
+    {
+      "word": "sesquipedalian",
+      "clues": [
+        "An adjective. Describes long words — fittingly.",
+        "Means: characterized by long, polysyllabic words.",
+        "Synonym: \"verbose with big words\".",
+        "Stop using such _______ vocabulary just to sound smart.",
+        "14 letters, starts with S."
+      ],
+      "etymology": "Latin \"sesqui\" (one and a half) + \"pes\" (foot); literally \"a foot and a half long\"."
+    },
+    {
+      "word": "perfidious",
+      "clues": [
+        "An adjective. Describes a serious character flaw.",
+        "Means: deceitful and untrustworthy, especially in betraying trust.",
+        "Synonyms: \"treacherous\", \"disloyal\", \"duplicitous\".",
+        "The spy's _______ acts were eventually discovered.",
+        "10 letters, starts with P."
+      ],
+      "etymology": "From Latin \"perfidia\" — faithlessness."
+    },
+    {
+      "word": "mendacious",
+      "clues": [
+        "An adjective. Describes someone untruthful.",
+        "Means: not telling the truth; lying.",
+        "Synonyms: \"dishonest\", \"deceitful\", \"untruthful\".",
+        "His _______ memoir was full of invented anecdotes.",
+        "10 letters, starts with M."
+      ],
+      "etymology": "From Latin \"mendax\" — lying."
+    },
+    {
+      "word": "obsequious",
+      "clues": [
+        "An adjective. Describes excessive flattery.",
+        "Means: overly attentive or compliant in order to gain favor.",
+        "Synonyms: \"fawning\", \"servile\", \"sycophantic\".",
+        "The waiter's _______ manner made everyone uncomfortable.",
+        "10 letters, starts with O."
+      ],
+      "etymology": "From Latin \"obsequi\" — to comply with."
+    },
+    {
+      "word": "ineffable",
+      "clues": [
+        "An adjective. Describes feelings or experiences.",
+        "Means: too great or beautiful to be expressed in words.",
+        "Synonyms: \"indescribable\", \"inexpressible\", \"unutterable\".",
+        "The view from the summit had an _______ beauty.",
+        "9 letters, starts with I."
+      ],
+      "etymology": "Latin \"in-\" (not) + \"effabilis\" (utterable)."
+    },
+    {
+      "word": "fastidious",
+      "clues": [
+        "An adjective. Describes attention to standards.",
+        "Means: very attentive to accuracy and detail; hard to please.",
+        "Synonyms: \"meticulous\", \"finicky\", \"particular\".",
+        "He was _______ about how his coffee was prepared.",
+        "10 letters, starts with F."
+      ],
+      "etymology": "From Latin \"fastidium\" — loathing, scorn."
+    },
+    {
+      "word": "abstruse",
+      "clues": [
+        "An adjective. Describes how hard something is to grasp.",
+        "Means: difficult to understand; obscure.",
+        "Synonyms: \"obscure\", \"esoteric\", \"recondite\".",
+        "The lecture on quantum field theory was utterly _______.",
+        "8 letters, starts with A."
+      ],
+      "etymology": "From Latin \"abstrudere\" — to push away, hide."
+    },
+    {
+      "word": "acerbic",
+      "clues": [
+        "An adjective. About a sharp, biting quality in speech or writing.",
+        "Means: sharp and forthright; bitter in tone or expression.",
+        "Synonyms: \"caustic\", \"biting\", \"mordant\".",
+        "The critic's _______ review spared no one connected with the production.",
+        "7 letters, starts with A."
+      ],
+      "etymology": "From Latin \"acerbus\" — harsh to the senses, bitter."
+    },
+    {
+      "word": "alacrity",
+      "clues": [
+        "A noun. About how quickly and willingly someone acts.",
+        "Means: brisk and cheerful readiness; enthusiastic willingness.",
+        "Synonyms: \"eagerness\", \"promptness\", \"zeal\".",
+        "She accepted the promotion with _______, starting the very next morning.",
+        "8 letters, starts with A."
+      ],
+      "etymology": "From Latin \"alacritas\" — liveliness, eagerness."
+    },
+    {
+      "word": "anathema",
+      "clues": [
+        "A noun. Something or someone greatly hated or cursed.",
+        "Means: something or someone greatly detested or loathed; a formal curse.",
+        "Synonyms: \"abomination\", \"pariah\", \"bane\".",
+        "The idea of compromise was _______ to him — he'd rather lose than concede an inch.",
+        "8 letters, starts with A."
+      ],
+      "etymology": "From Greek \"anathema\" — a thing devoted to evil; literally \"something set up\" for a curse."
+    },
+    {
+      "word": "apocryphal",
+      "clues": [
+        "An adjective. About stories of doubtful truth.",
+        "Means: of doubtful authenticity; widely circulated but unlikely to be true.",
+        "Synonyms: \"legendary\", \"mythical\", \"dubious\".",
+        "The story of Newton being struck by an apple is probably _______.",
+        "10 letters, starts with A."
+      ],
+      "etymology": "From Greek \"apokryphos\" — hidden away; applied to books excluded from the Bible."
+    },
+    {
+      "word": "assuage",
+      "clues": [
+        "A verb. About making something painful less intense.",
+        "Means: to make an unpleasant feeling less intense; to soothe or satisfy.",
+        "Synonyms: \"relieve\", \"alleviate\", \"appease\".",
+        "Nothing could _______ her grief in the days after the accident.",
+        "7 letters, starts with A."
+      ],
+      "etymology": "From Latin \"suavis\" — sweet, pleasant; literally \"to sweeten\"."
+    },
+    {
+      "word": "bellicose",
+      "clues": [
+        "An adjective. About an aggressive, war-seeking attitude.",
+        "Means: eager to fight; aggressively hostile.",
+        "Synonyms: \"aggressive\", \"warlike\", \"pugnacious\".",
+        "The senator's _______ rhetoric alarmed even members of his own party.",
+        "9 letters, starts with B."
+      ],
+      "etymology": "From Latin \"bellum\" — war."
+    },
+    {
+      "word": "byzantine",
+      "clues": [
+        "An adjective. About complexity that seems designed to confuse.",
+        "Means: excessively complicated; characterized by intricate scheming.",
+        "Synonyms: \"labyrinthine\", \"convoluted\", \"tortuous\".",
+        "The _______ approval process required seventeen signatures to replace a lightbulb.",
+        "9 letters, starts with B."
+      ],
+      "etymology": "From Byzantium, the Eastern Roman Empire, known for its complex court politics."
+    },
+    {
+      "word": "dauntless",
+      "clues": [
+        "An adjective. About courage in the face of fear.",
+        "Means: showing fearlessness; not discouraged by difficulty or danger.",
+        "Synonyms: \"intrepid\", \"fearless\", \"undaunted\".",
+        "The _______ climber pressed on despite the worsening storm.",
+        "9 letters, starts with D."
+      ],
+      "etymology": "From Middle English \"daunten\" — to intimidate; \"-less\" meaning without fear."
+    },
+    {
+      "word": "diaphanous",
+      "clues": [
+        "An adjective. About light and delicate materials.",
+        "Means: light, delicate, and translucent; almost transparent.",
+        "Synonyms: \"gossamer\", \"sheer\", \"translucent\".",
+        "The bride wore a _______ veil that moved in the slightest breeze.",
+        "10 letters, starts with D."
+      ],
+      "etymology": "From Greek \"diaphanes\" — \"dia-\" (through) + \"phainein\" (to show)."
+    },
+    {
+      "word": "egregious",
+      "clues": [
+        "An adjective. About something shockingly, blatantly bad.",
+        "Means: outstandingly bad; blatantly wrong or offensive.",
+        "Synonyms: \"flagrant\", \"glaring\", \"monstrous\".",
+        "The judge called the error _______ — not a misjudgment but a deliberate distortion.",
+        "9 letters, starts with E."
+      ],
+      "etymology": "From Latin \"egregius\" — outstanding; originally meant remarkably good, now always bad."
+    },
+    {
+      "word": "equivocate",
+      "clues": [
+        "A verb. About deliberately avoiding a clear answer.",
+        "Means: to use ambiguous language to conceal the truth or avoid commitment.",
+        "Synonyms: \"hedge\", \"prevaricate\", \"waffle\".",
+        "Asked directly whether he had lied, the minister continued to _______.",
+        "10 letters, starts with E."
+      ],
+      "etymology": "From Latin \"aequivocus\" — equal voice; using words with multiple meanings."
+    },
+    {
+      "word": "erudite",
+      "clues": [
+        "An adjective. About deeply and broadly learned people.",
+        "Means: having or showing great knowledge or learning.",
+        "Synonyms: \"learned\", \"scholarly\", \"knowledgeable\".",
+        "Her _______ lecture ranged across six languages and three centuries of philosophy.",
+        "7 letters, starts with E."
+      ],
+      "etymology": "From Latin \"erudire\" — to educate; \"e-\" (out) + \"rudis\" (untrained)."
+    },
+    {
+      "word": "gravitas",
+      "clues": [
+        "A noun. About a quality that commands serious attention.",
+        "Means: dignity, seriousness, and weight of manner.",
+        "Near-synonyms: \"solemnity\", \"authority\", \"weight\".",
+        "The young CEO lacked the _______ to convince the board she could lead the firm.",
+        "8 letters, starts with G."
+      ],
+      "etymology": "From Latin \"gravitas\" — weight, seriousness, from \"gravis\" (heavy)."
+    },
+    {
+      "word": "halcyon",
+      "clues": [
+        "An adjective. Describes a past time of peace and happiness.",
+        "Means: denoting a period of great happiness and prosperity; calm and peaceful.",
+        "Synonyms: \"golden\", \"idyllic\", \"peaceful\".",
+        "She looked back on those _______ summers before the war as another lifetime entirely.",
+        "7 letters, starts with H."
+      ],
+      "etymology": "From Greek mythology — the halcyon bird that calmed winter seas to nest; from \"alkyon\" (kingfisher)."
+    },
+    {
+      "word": "hubris",
+      "clues": [
+        "A noun. About excessive pride that leads to a fall.",
+        "Means: excessive confidence or pride, especially leading to downfall.",
+        "Synonyms: \"arrogance\", \"overconfidence\", \"conceit\".",
+        "It was sheer _______ to think a country that size could be conquered in a week.",
+        "6 letters, starts with H."
+      ],
+      "etymology": "From Greek \"hubris\" — insolent pride, violent excess; a concept central to Greek tragedy."
+    },
+    {
+      "word": "iconoclast",
+      "clues": [
+        "A noun. A person who attacks accepted beliefs or institutions.",
+        "Means: someone who challenges cherished beliefs or conventions; a radical disruptor.",
+        "Synonyms: \"rebel\", \"disruptor\", \"nonconformist\".",
+        "The young philosopher was an _______ who questioned everything his teachers held sacred.",
+        "10 letters, starts with I."
+      ],
+      "etymology": "From Greek \"eikon\" (image) + \"klastēs\" (breaker); originally one who destroyed religious icons."
+    },
+    {
+      "word": "imbroglio",
+      "clues": [
+        "A noun. A complicated and embarrassing situation.",
+        "Means: an extremely confused or complicated situation.",
+        "Synonyms: \"tangle\", \"mess\", \"predicament\".",
+        "The diplomatic _______ required three ambassadors and a summit to resolve.",
+        "9 letters, starts with I."
+      ],
+      "etymology": "From Italian \"imbrogliare\" — to entangle."
+    },
+    {
+      "word": "irascible",
+      "clues": [
+        "An adjective. About a short, easily-triggered temper.",
+        "Means: having or showing a tendency to be easily angered.",
+        "Synonyms: \"irritable\", \"hot-tempered\", \"choleric\".",
+        "The _______ director threw a script across the room at the first sign of disagreement.",
+        "9 letters, starts with I."
+      ],
+      "etymology": "From Latin \"irasci\" — to be angry, from \"ira\" (anger)."
+    },
+    {
+      "word": "lachrymose",
+      "clues": [
+        "An adjective. About crying and sadness.",
+        "Means: tearful or given to weeping; mournful.",
+        "Synonyms: \"tearful\", \"weepy\", \"mournful\".",
+        "The film's _______ ending left the entire audience reaching for tissues.",
+        "10 letters, starts with L."
+      ],
+      "etymology": "From Latin \"lacrima\" — a tear."
+    },
+    {
+      "word": "mercurial",
+      "clues": [
+        "An adjective. About rapid and unpredictable changes — often in mood.",
+        "Means: subject to sudden or unpredictable changes of mood or mind.",
+        "Synonyms: \"volatile\", \"erratic\", \"capricious\".",
+        "Her _______ temperament made her brilliant but almost impossible to work with.",
+        "9 letters, starts with M."
+      ],
+      "etymology": "From Mercury, Roman god of speed and communication; also relating to the element mercury's fluid nature."
+    },
+    {
+      "word": "misanthrope",
+      "clues": [
+        "A noun. A person with a very low opinion of humanity.",
+        "Means: a person who dislikes other people generally.",
+        "Synonyms: \"cynic\", \"recluse\", \"grouch\".",
+        "The _______ moved to a remote island specifically to avoid human contact.",
+        "11 letters, starts with M."
+      ],
+      "etymology": "From Greek \"misein\" (to hate) + \"anthropos\" (human being)."
+    },
+    {
+      "word": "mollify",
+      "clues": [
+        "A verb. About calming someone who is angry or upset.",
+        "Means: to appease or soften the anger of someone.",
+        "Synonyms: \"appease\", \"pacify\", \"soothe\".",
+        "Management tried to _______ the workers with a small raise and an extra holiday.",
+        "7 letters, starts with M."
+      ],
+      "etymology": "From Latin \"mollis\" (soft) + \"facere\" (to make) — literally \"to soften\"."
+    },
+    {
+      "word": "munificent",
+      "clues": [
+        "An adjective. About extraordinary generosity.",
+        "Means: larger or more generous than what is usual or expected.",
+        "Synonyms: \"lavish\", \"bountiful\", \"magnanimous\".",
+        "The _______ bequest funded the library's rare books collection for a century.",
+        "10 letters, starts with M."
+      ],
+      "etymology": "From Latin \"munus\" (gift) + \"facere\" (to make)."
+    },
+    {
+      "word": "parsimonious",
+      "clues": [
+        "An adjective. About extreme tightness with money.",
+        "Means: unwilling to spend money or use resources; extremely frugal.",
+        "Synonyms: \"miserly\", \"stingy\", \"niggardly\".",
+        "The _______ landlord refused to repair the heating all winter.",
+        "12 letters, starts with P."
+      ],
+      "etymology": "From Latin \"parsimonia\" — frugality, from \"parcere\" (to spare)."
+    },
+    {
+      "word": "propitious",
+      "clues": [
+        "An adjective. About favorable conditions or timing.",
+        "Means: giving or indicating a good chance of success; favorable.",
+        "Synonyms: \"favorable\", \"auspicious\", \"promising\".",
+        "The clear skies and calm winds made it a _______ day to set sail.",
+        "10 letters, starts with P."
+      ],
+      "etymology": "From Latin \"propitius\" — favorable, gracious."
+    },
+    {
+      "word": "sanctimonious",
+      "clues": [
+        "An adjective. About false displays of moral virtue.",
+        "Means: making a show of being morally superior to others.",
+        "Synonyms: \"self-righteous\", \"holier-than-thou\", \"pious\".",
+        "Her _______ lecture about recycling while driving an SUV was not well received.",
+        "13 letters, starts with S."
+      ],
+      "etymology": "From Latin \"sanctimonia\" — holiness; used ironically for hypocritical virtue."
+    }
+  ]
+}
